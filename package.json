@@ -1,0 +1,21 @@
+{
+  "name": "monokai-saz",
+  "displayName": "Monokai Saz",
+  "description": "A dimmed monokai theme with python-oriented semantic token coloring.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monokai Saz",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monokai Saz-color-theme.json"
+      }
+    ]
+  }
+}
