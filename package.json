@@ -1,10 +1,10 @@
 {
-  "name": "saz",
-  "displayName": "Saz",
-  "description": "A dim yet colorful theme with python-oriented semantic token coloring.",
-  "version": "0.0.20",
+  "name": "saz-theme",
+  "displayName": "Saz Theme",
+  "description": "A colorful yet toned-down theme with python-oriented semantic token coloring.",
+  "version": "0.0.21",
   "repository": {
-    "url": "https://github.com/andysazima/saz"
+    "url": "https://github.com/andysazima/saz-theme"
   },
   "publisher": "andysazima",
   "engines": {
@@ -16,7 +16,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Saz",
+        "label": "Saz Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Saz-color-theme.json"
       }
