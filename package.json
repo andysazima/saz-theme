@@ -2,7 +2,11 @@
   "name": "monokai-saz",
   "displayName": "Monokai Saz",
   "description": "A dimmed monokai theme with python-oriented semantic token coloring.",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "repository": {
+    "url": "https://github.com/andysazima/monokai-saz"
+  },
+  "publisher": "andysazima",
   "engines": {
     "vscode": "^1.75.0"
   },
