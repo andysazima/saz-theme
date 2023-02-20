@@ -800,7 +800,7 @@
 				"keyword.control"
 			],
 			"settings": {
-				"foreground": "#8fdfff"
+				"foreground": "#6be6fc"
 			}
 		},
 		{
@@ -852,8 +852,8 @@
 		{
 			"scope": "storage.type",
 			"settings": {
-				"foreground": "#89bde7",
-				"fontStyle": "bold"
+				"foreground": "#4ea5ec",
+				"fontStyle": "italic bold"
 			}
 		},
 		{
