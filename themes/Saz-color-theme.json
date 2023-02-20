@@ -762,7 +762,7 @@
 				"meta.item-access.arguments"
 			],
 			"settings": {
-				"foreground": "#f86d6d"
+				"foreground": "#fc8080"
 			}
 		},
 		{
@@ -800,7 +800,7 @@
 				"keyword.control"
 			],
 			"settings": {
-				"foreground": "#afe8ff"
+				"foreground": "#8fdfff"
 			}
 		},
 		{
@@ -852,8 +852,8 @@
 		{
 			"scope": "storage.type",
 			"settings": {
-				"foreground": "#89d1e7",
-				"fontStyle": "italic"
+				"foreground": "#89bde7",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -901,7 +901,7 @@
 		{
 			"scope": "support.function",
 			"settings": {
-				"foreground": "#8997e7",
+				"foreground": "#8b89e7",
 				"fontStyle": ""
 			}
 		},
