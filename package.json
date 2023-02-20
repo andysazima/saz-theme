@@ -1,10 +1,10 @@
 {
-  "name": "monokai-saz",
-  "displayName": "Monokai Saz",
-  "description": "A dimmed monokai theme with python-oriented semantic token coloring.",
-  "version": "0.0.19",
+  "name": "saz",
+  "displayName": "Saz",
+  "description": "A dim yet colorful theme with python-oriented semantic token coloring.",
+  "version": "0.0.20",
   "repository": {
-    "url": "https://github.com/andysazima/monokai-saz"
+    "url": "https://github.com/andysazima/saz"
   },
   "publisher": "andysazima",
   "engines": {
@@ -16,9 +16,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Monokai Saz",
+        "label": "Saz",
         "uiTheme": "vs-dark",
-        "path": "./themes/Monokai Saz-color-theme.json"
+        "path": "./themes/Saz-color-theme.json"
       }
     ]
   }
