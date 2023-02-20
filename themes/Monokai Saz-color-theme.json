@@ -800,7 +800,7 @@
 		{
 			"scope": "constant.character, constant.other",
 			"settings": {
-				"foreground": "#8fffb0"
+				"foreground": "#9fffbc"
 			}
 		},
 		{
