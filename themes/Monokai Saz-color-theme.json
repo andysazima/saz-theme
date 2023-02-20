@@ -757,14 +757,14 @@
 				"foreground": "#ffefeb"
 			}
 		},
-		// {
-		// 	"scope": [
-		// 		"source"
-		// 	],
-		// 	"settings": {
-		// 		"foreground": "#fd8888"
-		// 	}
-		// },
+		{
+			"scope": [
+				"meta.item-access.arguments"
+			],
+			"settings": {
+				"foreground": "#f86d6d"
+			}
+		},
 		{
 			"scope": "comment",
 			"settings": {
