@@ -726,6 +726,7 @@
 		},
 		{
 			"scope": [
+				"property",
 				"meta.attribute"
 			],
 			"settings": {
@@ -734,12 +735,36 @@
 		},
 		{
 			"scope": [
+				"meta.member.access"
+			],
+			"settings": {
+				"foreground": "#f7fdbd"
+			}
+		},
+		{
+			"scope": [
 				"meta.function-call"
 			],
 			"settings": {
-				"foreground": "#ecc4ff"
+				"foreground": "#fffc55"
 			}
 		},
+		{
+			"scope": [
+				"meta.function-call.arguments"
+			],
+			"settings": {
+				"foreground": "#ffefeb"
+			}
+		},
+		// {
+		// 	"scope": [
+		// 		"source"
+		// 	],
+		// 	"settings": {
+		// 		"foreground": "#fd8888"
+		// 	}
+		// },
 		{
 			"scope": "comment",
 			"settings": {
@@ -749,7 +774,7 @@
 		{
 			"scope": "string",
 			"settings": {
-				"foreground": "#77af99"
+				"foreground": "#85c0a9"
 			}
 		},
 		{
@@ -794,7 +819,7 @@
 		{
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#beffa4"
+				"foreground": "#cdffac"
 			}
 		},
 		{
@@ -847,7 +872,7 @@
 		{
 			"scope": "entity.name.function",
 			"settings": {
-				"foreground": "#fffd82",
+				"foreground": "#fffc55",
 				"fontStyle": ""
 			}
 		},
