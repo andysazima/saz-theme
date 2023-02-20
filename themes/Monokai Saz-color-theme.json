@@ -746,7 +746,7 @@
 				"meta.function-call"
 			],
 			"settings": {
-				"foreground": "#fffc55"
+				"foreground": "#fffd8a"
 			}
 		},
 		{
@@ -774,13 +774,14 @@
 		{
 			"scope": "string",
 			"settings": {
-				"foreground": "#85c0a9"
+				"foreground": "#95d8be"
 			}
 		},
 		{
 			"scope": [
 				"punctuation.definition.template-expression",
-				"punctuation.section.embedded"
+				"punctuation.section.embedded",
+				"punctuation.separator"
 			],
 			"settings": {
 				"foreground": "#ffffff"
