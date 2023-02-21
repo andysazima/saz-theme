@@ -2,7 +2,7 @@
   "name": "saz-theme",
   "displayName": "Saz Theme",
   "description": "A colorful yet toned-down theme with python-oriented semantic token coloring.",
-  "version": "0.0.22",
+  "version": "0.0.27",
   "repository": {
     "url": "https://github.com/andysazima/saz-theme"
   },
